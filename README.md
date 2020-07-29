@@ -61,8 +61,10 @@ This section contains settings required to run the script
 * `write_field`: API field name of the target field (string)
 
 
-You can get the filter API by first navigating to it in Jama then grabbing it from the url its the number 
-right after "filters/". The API item type ID and api names can be found in Jama from the admin tab > item types
+You can get the filter API ID by first navigating to it in Jama then grabbing it from the url its the number 
+right after "filters/". 
+
+The API item type ID and api names can be found in Jama from the admin tab > item types
 
 
 ## Running the script
